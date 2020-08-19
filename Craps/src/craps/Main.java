@@ -8,7 +8,7 @@ public class Main {
         Dado Dado2 = new Dado();
         Partida nuevaPartida = new Partida();
         Datos gestorDatos = new Datos();
-        VistaRegistro vistaRegistro = new VistaRegistro(nuevaPartida,gestorDatos,Dado1,Dado2);
+        Login login = new Login(nuevaPartida,gestorDatos,Dado1,Dado2);
 
     }
 
