@@ -3,7 +3,7 @@ package craps;
 public class Cara {
 
     private int Value;
-//-------CONSTRUCTOR
+//-------CONSTRUCTOR-------//
     public Cara() {}
 //-----------GET/SET
     public int getValue() {
